@@ -1,8 +1,5 @@
-# Cards feito em vueJs
-## Projeto para fins de aprendizado, entendendo o que é props.
-
-#Projeto feito em PHP
-##Projeto do curso do Matheus Batisti na Udemy
+# Projeto feito em PHP
+## Projeto do curso do Matheus Batisti na Udemy
 
 ![image](https://github.com/user-attachments/assets/529c87e6-b27b-44c7-b419-ad6b99ce7d2e)
 ![image](https://github.com/user-attachments/assets/27728300-6e79-401d-93c6-42802a270f04)
